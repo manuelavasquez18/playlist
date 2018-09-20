@@ -1,0 +1,24 @@
+#playlist,
+ audio{
+  background:#EAEDED;
+  width:400px;
+  padding:20px;
+  list-style: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a {
+  text-decoration:none;
+}
+.active a {
+  color:#000000;
+  text-decoration:none;
+}
+li a{
+  color:#EAEDED;
+  background:#EAEDED;
+  padding:5px;
+  display:block;
+}
+li a:hover{
+  text-decoration:none;
+}
